@@ -1,0 +1,7 @@
+📋 Informe de los experimentos
+
+Nombre: jashdkashd
+Fecha: 12/02/2001, Tipo: Quimica
+Resultados: [123.0, 31.0]
+Promedio: 77.00, Máximo: 123.0, Mínimo: 31.0
+

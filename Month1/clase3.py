@@ -193,10 +193,5 @@ for student in range(100):
         print("You can buy alcohol in COL")
         print("You are in the university")
         break  # Break the loop once a student meets all criteria and has been assigned a DNI
-
-
     
-    
-
-
     
